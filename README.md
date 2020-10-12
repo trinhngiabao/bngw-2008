@@ -1,3 +1,3 @@
 # bngw-
 ------
-publish aite at : https://trinhngiabao.github.io/bngw-2008/ 
+publish site at : https://trinhngiabao.github.io/bngw-2008/ 
